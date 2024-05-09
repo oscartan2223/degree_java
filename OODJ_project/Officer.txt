@@ -1,0 +1,3 @@
+1. | OID_1 | Choo yin keat | $2a$10$IRn69Vbzl3ZpIPGmmM6nSe4lBGOh4ExWQ/3ufAcmXa/8zTjsG1qJK | keatyinchoo@gmail.com | Male | 018-3262835 | 1 | default_pic.png
+2. | OID_2 | Choo yin keat | $2a$10$XtU3QbPTpUSTtv6W5NLNuuX/bUqibdK99EGr/s9Ly1rOJS3pu0VVq | keatyinchoo@gmail.com | Male | 018-3262835 | 1 | default_pic.png
+3. | OID_3 | Loo chee hon | $2a$10$Z0Eftzc2bOS4UnRBeRQeZeqnsmbNbUJpGJb3R.6Oc5dfem1T8VpSW | keatyinchoo@gmail.com | Male | 018-3262835 | 1 | default_pic.png
